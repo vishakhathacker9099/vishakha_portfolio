@@ -1,0 +1,14 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+9,normal,Highest,Windows,harshita@gmail.com,ASSIGNED,---,check summer collection 45% off button
+5,normal,Highest,Windows,payal@gmail.com,ASSIGNED,---,check password with spaces
+7,major,High,Windows,harshita@gmail.com,ASSIGNED,---,check shop now image on home page
+4,critical,High,Windows,laxmi@gmail.com,ASSIGNED,---,not payment via debit card
+1,critical,High,Windows,payal@gmail.com,ASSIGNED,---,if any email or password will entered then login successfull
+8,critical,Normal,Windows,harshita@gmail.com,ASSIGNED,---,check sale get upto 25% off button
+11,normal,Normal,Windows,khushboo@gmail.com,ASSIGNED,---,check mobile phone with alphabets
+12,normal,Normal,Windows,khushboo@gmail.com,ASSIGNED,---,check mobile phone with invalid numbers
+13,minor,Normal,Windows,khushboo@gmail.com,ASSIGNED,---,check mobile phone with  5 numbers
+6,normal,Normal,Windows,payal@gmail.com,ASSIGNED,---,check mobile phone with alphabets
+2,major,High,Windows,harshita@gmail.com,RESOLVED,FIXED,product not to display properly so how we buy the product
+3,minor,High,Windows,harshita@gmail.com,RESOLVED,FIXED,check sale 70% off all product not open its just refresh the page
+10,major,Normal,Windows,harshita@gmail.com,RESOLVED,FIXED,check men's coats and jackets on home screen
